@@ -1,4 +1,16 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+lightgbm
+tensorflow
+torch
+torchvision
+torchtext
+torchmetrics
+transformers
+
+#-e .
