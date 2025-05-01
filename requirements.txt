@@ -12,5 +12,5 @@ torchvision
 torchtext
 torchmetrics
 transformers
-
+dill
 #-e .
